@@ -1,7 +1,6 @@
 <h1> Hi, this is Ansik Aryan </h1>
 <h3 align="center">I am an application developer, a data science enthusiast and a periodic blogger. I also have a knack for game development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiyotaka-ayanak0ji&label=Profile%20views&color=0e75b6&style=flat" alt="kiyotaka-ayanak0ji" /> </p>
 
 - 📝 I regularly write articles on [https://medium.com](https://medium.com)
 

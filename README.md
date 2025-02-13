@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aryanansik@gmail.com**
 
-- ⚡ Fun fact **I like challenges.***
+- ⚡ Fun fact **I like challenges.**
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, this is Ansik Aryan</h1>
-<h3 align="center">A software application developer, a data science and ML enthusiast and a periodic blogger. I also have a knack for game development.</h3>
+<h3 align="center" margin-left="20px" margin-right="20px">A software application developer, a data science and ML enthusiast and a periodic blogger. I also have a knack for game development.</h3>
 
 - 🔭 I’m currently working on **Access.Point** : _An application that lets users write exclusively about certain topics and according to the reach of their articles they are then ranked._
 

@@ -13,6 +13,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Maximize Your Chances Of Success.](https://medium.com/@aryanansik/how-to-maximize-your-chances-of-success-42f97a6391da?source=rss-5c398773aab2------2)
+- [Personal development — an upgrade to the existing you.](https://medium.com/@aryanansik/personal-development-an-upgrade-to-the-existing-you-94d5cf934134?source=rss-5c398773aab2------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

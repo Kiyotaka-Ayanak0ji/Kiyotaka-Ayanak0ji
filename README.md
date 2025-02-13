@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Access.Point** : _An application that lets users write exclusively about certain topics and according to the reach of their articles they are then ranked._
 
-- 🌱 I’m currently learning **Devops and System Design**
+- 🌱 I’m currently learning **Devops and System Design.**
 
 - 💬 Ask me about **Software Development fundamentals and Product Management.**
 
 - 📫 How to reach me **aryanansik@gmail.com**
 
-- ⚡ Fun fact **I like challenges***
+- ⚡ Fun fact **I like challenges.***
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->

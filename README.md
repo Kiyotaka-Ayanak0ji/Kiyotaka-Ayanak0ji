@@ -1,5 +1,5 @@
-<h1 align="center">Hi, this is Ansik Aryan</h1>
-<h3 align="center">I am a software application developer, a data scienceand ML enthusiast and a periodic blogger.I also have a knack for game development.</h3>
+<h1 align="left">Hi, this is Ansik Aryan</h1>
+<h3 align="center">I am a software application developer, a data science and ML enthusiast and a periodic blogger.I also have a knack for game development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiyotaka-ayanak0ji&label=Profile%20views&color=0e75b6&style=flat" alt="kiyotaka-ayanak0ji" /> </p>
 

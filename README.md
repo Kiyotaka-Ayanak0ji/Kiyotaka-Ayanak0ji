@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiyotaka-ayanak0ji&label=Profile%20views&color=0e75b6&style=flat" alt="kiyotaka-ayanak0ji" /> </p>
 
-- 🔭 I’m currently working on **Access.Point**
-       _An application that lets users write exclusively about certain topics and according to the reach of their articles they are then ranked._
+- 🔭 I’m currently working on **Access.Point** : _An application that lets users write exclusively about certain topics and according to the reach of their articles they are then ranked._
 
 - 🌱 I’m currently learning **Devops and System Design**
 

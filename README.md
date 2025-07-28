@@ -1,5 +1,4 @@
-<h1 align="center">Hi, this is Ansik Aryan</h1>
-<h3 align="left" margin-left="20px" margin-right="20px"> Software Developer with proficiency in various technology stacks. A part-time game developer and an avid blogger. </h3>
+<h2 align="left" margin-left="20px" margin-right="20px"> Software Developer with proficiency in various technology stacks. A part-time game developer and an avid blogger. </h2>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->

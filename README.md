@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Devops and System Design.**
 
-- 💬 Ask me about **Software Development fundamentals and Product Management.**
+- 💬 Ask me about **Software Development fundamentals and Algorithm Design.**
 
 - 📫 How to reach me **aryanansik@gmail.com**
 

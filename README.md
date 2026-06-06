@@ -1,7 +1,7 @@
 <h1 align="center">Hi, this is Ansik Aryan</h1>
 <h3 align="center" margin-left="20px" margin-right="20px">A software application developer, a data science and ML enthusiast and an avid blogger. I also have a knack for game development.</h3>
 
-- 🌱 I’m currently learning **Devops and System Design.**
+- 🌱 I’m currently learning **Data Science,Artificial Intelligence and Machine Learning.**
 
 - 💬 Ask me about **Software Development fundamentals and Algorithm Design.**
 

@@ -1,35 +1,49 @@
-<h1 align="center">Hi, this is Ansik Aryan</h1>
-<h3 align="center" margin-left="20px" margin-right="20px">A software application developer, a data science and ML enthusiast and an avid blogger. I also have a knack for game development.</h3>
+<h1 align="center">Hi, I'm Ansik Aryan</h1>
+<h3 align="center">Full-Stack Developer | Backend-Focused | API & Systems Builder</h3>
 
-- 🌱 I’m currently learning **Data Science,Artificial Intelligence and Machine Learning.**
-
-- 💬 Ask me about **Software Development fundamentals and Algorithm Design.**
-
-- 📫 How to reach me **aryanansik@gmail.com**
-
-- ⚡ Fun fact **I like challenges.**
-
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [How To Maximize Your Chances Of Success.](https://medium.com/@aryanansik/how-to-maximize-your-chances-of-success-42f97a6391da?source=rss-5c398773aab2------2)
-- [Personal development — an upgrade to the existing you.](https://medium.com/@aryanansik/personal-development-an-upgrade-to-the-existing-you-94d5cf934134?source=rss-5c398773aab2------2)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@wisewisdm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@wisewisdm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ansik aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansik aryan" height="30" width="40" /></a>
-<a href="https://medium.com/@aryanansik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aryanansik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aryanansik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryanansik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kiy0taka_ayanak0ji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kiy0taka_ayanak0ji" height="30" width="40" /></a>
+<p align="center">
+I build scalable web applications, design robust APIs, and enjoy solving real-world problems with clean, efficient code.
 </p>
 
-<h3 align="left">Languages and Tools Used:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+## About Me
+- Software developer focused on backend systems and full-stack applications.
+- Strong in Node.js, Express, MySQL, React, and REST API development.
+- Experience building fintech, dashboard, automation, and cryptography-based projects.
+- Currently improving my skills in system design, authentication, and scalable backend architecture.
+- Interested in stock market tech, data-driven applications, and problem solving.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiyotaka-ayanak0ji&show_icons=true&locale=en&layout=compact" alt="kiyotaka-ayanak0ji" /></p>
+## What I’m Working On
+- Building production-ready full-stack applications.
+- Preparing for software development placements.
+- Strengthening DSA, backend concepts, and system design fundamentals.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiyotaka-ayanak0ji&show_icons=true&locale=en" alt="kiyotaka-ayanak0ji" /></p>
+## Tech Stack
+- Languages: JavaScript, TypeScript, Python, SQL
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js, Flask
+- Databases: MySQL, PostgreSQL, MongoDB
+- Tools: Git, GitHub, Postman, VS Code, Linux
+- Other: REST APIs, Sequelize, Authentication, Cloudflare
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyotaka-ayanak0ji&" alt="kiyotaka-ayanak0ji" /></p>
+## Featured Projects
+- Stock Market Dashboard
+- Loan Approval System
+- Cryptography Tool
+- Full-Stack Web Applications
+
+## Connect With Me
+- Email: aryanansik@gmail.com
+- LinkedIn: https://linkedin.com/in/ansik-aryan
+- Medium: https://medium.com/@aryanansik
+- LeetCode: https://www.leetcode.com/kiy0taka_ayanak0ji
+- HackerRank: https://www.hackerrank.com/aryanansik
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiyotaka-ayanak0ji&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiyotaka-ayanak0ji&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiyotaka-ayanak0ji&layout=compact&theme=tokyonight" />
+</p>

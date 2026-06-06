@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Ansik Aryan</h1>
-<h3 align="center">Full-Stack Developer | Backend-Focused | API & Systems Builder</h3>
+<h3 align="center">MERN-Stack Developer | Backend-Focused | API & Systems Builder</h3>
 
 <p align="center">
 I build scalable web applications, design robust APIs, and enjoy solving real-world problems with clean, efficient code.
 </p>
 
 ## About Me
-- Software developer focused on backend systems and full-stack applications.
-- Strong in Node.js, Express, MySQL, React, and REST API development.
-- Experience building fintech, dashboard, automation, and cryptography-based projects.
-- Currently improving my skills in system design, authentication, and scalable backend architecture.
+- Software developer focused on backend systems and MERN-stack applications.
+- Strong in Node.js, Express, MySQL, React, Data Analytics and REST API development.
+- Experience building fintech API, automation and cryptography-based projects.
+- Currently improving my skills in data analytics,system design, authentication, and scalable backend architecture.
 - Interested in stock market tech, data-driven applications, and problem solving.
 
 ## What I’m Working On

@@ -29,7 +29,8 @@ I build scalable web applications, design robust APIs, and enjoy solving real-wo
 - Stock Market Dashboard
 - Loan Approval System
 - Cryptography Tool
-- Full-Stack Web Applications
+- Github Profile Analyzer API
+- Full-Stack Todo Application
 
 ## Connect With Me
 - Email: aryanansik@gmail.com
@@ -37,6 +38,7 @@ I build scalable web applications, design robust APIs, and enjoy solving real-wo
 - Medium: https://medium.com/@aryanansik
 - LeetCode: https://www.leetcode.com/kiy0taka_ayanak0ji
 - HackerRank: https://www.hackerrank.com/aryanansik
+- Portfolio Link: https://personalportfolio-theta-sable.vercel.app/
 
 ## GitHub Stats
 <p align="center">

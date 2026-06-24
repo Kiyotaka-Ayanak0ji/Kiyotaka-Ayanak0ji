@@ -14,6 +14,7 @@ I build scalable web applications, design robust APIs, and enjoy solving real-wo
 
 ## What I’m Working On
 - Building production-ready full-stack applications.
+- Building an application that helps its users identify potential authentic and trusted internships/jobs by filtering the company via a web search and online reviews.
 - Preparing for software development placements.
 - Strengthening DSA, backend concepts, and system design fundamentals.
 
